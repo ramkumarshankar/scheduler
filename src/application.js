@@ -27,7 +27,7 @@ const { Gio, Gtk } = imports.gi;
 
 const { SchedulerWindow } = imports.window;
 
-class Application {
+class SchedulerApp {
     constructor() {
         this.app = new Gtk.Application({
             application_id: 'me.ramkumar.scheduler',

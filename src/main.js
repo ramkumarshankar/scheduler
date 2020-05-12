@@ -23,9 +23,9 @@ pkg.require({
   'Gtk': '3.0'
 });
 
-const Application = imports.application;
+const { SchedulerApp } = imports.application;
 
 function main(argv) {
-    return new Application.Application().app.run(argv);
+    return new SchedulerApp().app.run(argv);
 }
 
