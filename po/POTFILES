@@ -1,0 +1,7 @@
+data/me.ramkumar.scheduler.desktop.in
+data/me.ramkumar.scheduler.appdata.xml.in
+data/me.ramkumar.scheduler.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+

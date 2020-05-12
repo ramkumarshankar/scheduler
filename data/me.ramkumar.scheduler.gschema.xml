@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="scheduler">
+	<schema id="me.ramkumar.scheduler" path="/me/ramkumar/scheduler/">
+	</schema>
+</schemalist>
